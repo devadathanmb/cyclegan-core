@@ -104,4 +104,4 @@ Rishi Raj K
 
 ## License
 
-This project is licensed under GPL 3.0 licensing. See [LISCENSE.md](./LISCENSE.md)
+This project is licensed under GPL 3.0 licensing. See [LICENSE.md](./LICENSE.md)
